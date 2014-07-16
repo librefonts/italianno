@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GPOS>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=1 -->
+      <Lookup index="0">
+        <LookupType value="2"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <PairPos index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="parenleft"/>
+            <Glyph value="comma"/>
+            <Glyph value="three"/>
+            <Glyph value="seven"/>
+            <Glyph value="A.roman"/>
+            <Glyph value="B.roman"/>
+            <Glyph value="D.roman"/>
+            <Glyph value="E.roman"/>
+            <Glyph value="G.roman"/>
+            <Glyph value="L.roman"/>
+            <Glyph value="M.roman"/>
+            <Glyph value="O.roman"/>
+            <Glyph value="P.roman"/>
+            <Glyph value="R.roman"/>
+            <Glyph value="V.roman"/>
+            <Glyph value="W.roman"/>
+            <Glyph value="one.oldstyle"/>
+            <Glyph value="two.oldstyle"/>
+            <Glyph value="four.oldstyle"/>
+            <Glyph value="five.oldstyle"/>
+            <Glyph value="six.oldstyle"/>
+            <Glyph value="eight.oldstyle"/>
+          </Coverage>
+          <ValueFormat1 value="4"/>
+          <ValueFormat2 value="0"/>
+          <!-- PairSetCount=22 -->
+          <PairSet index="0">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-38"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="1">
+            <!-- PairValueCount=9 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="six"/>
+              <Value1 XAdvance="13"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="f"/>
+              <Value1 XAdvance="34"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="one.oldstyle"/>
+              <Value1 XAdvance="38"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="two.oldstyle"/>
+              <Value1 XAdvance="21"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="three.oldstyle"/>
+              <Value1 XAdvance="-17"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="four.oldstyle"/>
+              <Value1 XAdvance="25"/>
+            </PairValueRecord>
+            <PairValueRecord index="6">
+              <SecondGlyph value="five.oldstyle"/>
+              <Value1 XAdvance="-17"/>
+            </PairValueRecord>
+            <PairValueRecord index="7">
+              <SecondGlyph value="seven.oldstyle"/>
+              <Value1 XAdvance="34"/>
+            </PairValueRecord>
+            <PairValueRecord index="8">
+              <SecondGlyph value="nine.oldstyle"/>
+              <Value1 XAdvance="9"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="2">
+            <!-- PairValueCount=2 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-64"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="one.oldstyle"/>
+              <Value1 XAdvance="-17"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="3">
+            <!-- PairValueCount=2 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-106"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="f"/>
+              <Value1 XAdvance="-21"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="4">
+            <!-- PairValueCount=13 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="C.roman"/>
+              <Value1 XAdvance="-74"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="D.roman"/>
+              <Value1 XAdvance="-33"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="E.roman"/>
+              <Value1 XAdvance="-33"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="F.roman"/>
+              <Value1 XAdvance="-25"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="G.roman"/>
+              <Value1 XAdvance="-86"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="L.roman"/>
+              <Value1 XAdvance="-29"/>
+            </PairValueRecord>
+            <PairValueRecord index="6">
+              <SecondGlyph value="M.roman"/>
+              <Value1 XAdvance="-45"/>
+            </PairValueRecord>
+            <PairValueRecord index="7">
+              <SecondGlyph value="T.roman"/>
+              <Value1 XAdvance="-98"/>
+            </PairValueRecord>
+            <PairValueRecord index="8">
+              <SecondGlyph value="U.roman"/>
+              <Value1 XAdvance="-90"/>
+            </PairValueRecord>
+            <PairValueRecord index="9">
+              <SecondGlyph value="V.roman"/>
+              <Value1 XAdvance="-167"/>
+            </PairValueRecord>
+            <PairValueRecord index="10">
+              <SecondGlyph value="W.roman"/>
+              <Value1 XAdvance="-163"/>
+            </PairValueRecord>
+            <PairValueRecord index="11">
+              <SecondGlyph value="X.roman"/>
+              <Value1 XAdvance="-41"/>
+            </PairValueRecord>
+            <PairValueRecord index="12">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-110"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="5">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-77"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="6">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-69"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="7">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-65"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="8">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-86"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="9">
+            <!-- PairValueCount=2 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="W.roman"/>
+              <Value1 XAdvance="-134"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-102"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="10">
+            <!-- PairValueCount=2 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="W.roman"/>
+              <Value1 XAdvance="-61"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-77"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="11">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-98"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="12">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-61"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="13">
+            <!-- PairValueCount=6 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="O.roman"/>
+              <Value1 XAdvance="-45"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="T.roman"/>
+              <Value1 XAdvance="-73"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="V.roman"/>
+              <Value1 XAdvance="-167"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="W.roman"/>
+              <Value1 XAdvance="-163"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="X.roman"/>
+              <Value1 XAdvance="-53"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-102"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="14">
+            <!-- PairValueCount=2 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="A.roman"/>
+              <Value1 XAdvance="-151"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-17"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="15">
+            <!-- PairValueCount=6 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="A.roman"/>
+              <Value1 XAdvance="-171"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="E.roman"/>
+              <Value1 XAdvance="-49"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="V.roman"/>
+              <Value1 XAdvance="-45"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="X.roman"/>
+              <Value1 XAdvance="-57"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="Y.roman"/>
+              <Value1 XAdvance="-37"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="Z.roman"/>
+              <Value1 XAdvance="-45"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="16">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-46"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="17">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-8"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="18">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-17"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="19">
+            <!-- PairValueCount=2 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-34"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="seven.oldstyle"/>
+              <Value1 XAdvance="63"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="20">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-76"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="21">
+            <!-- PairValueCount=2 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-64"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="nine.oldstyle"/>
+              <Value1 XAdvance="-17"/>
+            </PairValueRecord>
+          </PairSet>
+        </PairPos>
+      </Lookup>
+    </LookupList>
+  </GPOS>
+
+</ttFont>

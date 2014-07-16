@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A.roman" r="C.roman" v="-74"/>
+      <pair l="A.roman" r="D.roman" v="-33"/>
+      <pair l="A.roman" r="E.roman" v="-33"/>
+      <pair l="A.roman" r="F.roman" v="-25"/>
+      <pair l="A.roman" r="G.roman" v="-86"/>
+      <pair l="A.roman" r="L.roman" v="-29"/>
+      <pair l="A.roman" r="M.roman" v="-45"/>
+      <pair l="A.roman" r="T.roman" v="-98"/>
+      <pair l="A.roman" r="U.roman" v="-90"/>
+      <pair l="A.roman" r="V.roman" v="-167"/>
+      <pair l="A.roman" r="W.roman" v="-163"/>
+      <pair l="A.roman" r="X.roman" v="-41"/>
+      <pair l="A.roman" r="Y.roman" v="-110"/>
+      <pair l="B.roman" r="Y.roman" v="-77"/>
+      <pair l="D.roman" r="Y.roman" v="-69"/>
+      <pair l="E.roman" r="Y.roman" v="-65"/>
+      <pair l="G.roman" r="Y.roman" v="-86"/>
+      <pair l="L.roman" r="W.roman" v="-134"/>
+      <pair l="L.roman" r="Y.roman" v="-102"/>
+      <pair l="M.roman" r="W.roman" v="-61"/>
+      <pair l="M.roman" r="Y.roman" v="-77"/>
+      <pair l="O.roman" r="Y.roman" v="-98"/>
+      <pair l="P.roman" r="Y.roman" v="-61"/>
+      <pair l="R.roman" r="O.roman" v="-45"/>
+      <pair l="R.roman" r="T.roman" v="-73"/>
+      <pair l="R.roman" r="V.roman" v="-167"/>
+      <pair l="R.roman" r="W.roman" v="-163"/>
+      <pair l="R.roman" r="X.roman" v="-53"/>
+      <pair l="R.roman" r="Y.roman" v="-102"/>
+      <pair l="V.roman" r="A.roman" v="-151"/>
+      <pair l="V.roman" r="Y.roman" v="-17"/>
+      <pair l="W.roman" r="A.roman" v="-171"/>
+      <pair l="W.roman" r="E.roman" v="-49"/>
+      <pair l="W.roman" r="V.roman" v="-45"/>
+      <pair l="W.roman" r="X.roman" v="-57"/>
+      <pair l="W.roman" r="Y.roman" v="-37"/>
+      <pair l="W.roman" r="Z.roman" v="-45"/>
+      <pair l="comma" r="f" v="34"/>
+      <pair l="comma" r="five.oldstyle" v="-17"/>
+      <pair l="comma" r="four.oldstyle" v="25"/>
+      <pair l="comma" r="nine.oldstyle" v="9"/>
+      <pair l="comma" r="one.oldstyle" v="38"/>
+      <pair l="comma" r="seven.oldstyle" v="34"/>
+      <pair l="comma" r="six" v="13"/>
+      <pair l="comma" r="three.oldstyle" v="-17"/>
+      <pair l="comma" r="two.oldstyle" v="21"/>
+      <pair l="eight.oldstyle" r="comma" v="-64"/>
+      <pair l="eight.oldstyle" r="nine.oldstyle" v="-17"/>
+      <pair l="five.oldstyle" r="comma" v="-34"/>
+      <pair l="five.oldstyle" r="seven.oldstyle" v="63"/>
+      <pair l="four.oldstyle" r="comma" v="-17"/>
+      <pair l="one.oldstyle" r="comma" v="-46"/>
+      <pair l="parenleft" r="comma" v="-38"/>
+      <pair l="seven" r="comma" v="-106"/>
+      <pair l="seven" r="f" v="-21"/>
+      <pair l="six.oldstyle" r="comma" v="-76"/>
+      <pair l="three" r="comma" v="-64"/>
+      <pair l="three" r="one.oldstyle" v="-17"/>
+      <pair l="two.oldstyle" r="comma" v="-8"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
